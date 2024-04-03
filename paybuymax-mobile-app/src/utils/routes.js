@@ -1,0 +1,1 @@
+export const baseUrl = 'http://app.paybuymax.com/api/v1'
